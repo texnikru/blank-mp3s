@@ -1,0 +1,16 @@
+# Blank MP3s
+
+* [.10 seconds](point1sec.mp3)
+* [.25 seconds](quartersec.mp3)
+* [.5 seconds](halfsec.mp3)
+* [1 second](1sec.mp3)
+* [1.5 seconds](1point5sec.mp3)
+* [2 seconds](2sec.mp3)
+* [3 seconds](3sec.mp3)
+* [4 seconds](4sec.mp3)
+* [5 seconds](5sec.mp3)
+* [10 seconds](10sec.mp3)
+* [20 seconds](20sec.mp3)
+* [30 seconds](30sec.mp3)
+* [1 minute](1min.mp3)
+* [5 minutes](5min.mp3)
